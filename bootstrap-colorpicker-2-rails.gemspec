@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = BootstrapColorpicker2::Rails::VERSION
   spec.authors       = ["Marcelo de Moraes Serpa"]
   spec.email         = ["boss@fullofcaffeine.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Bootstrap Colorpicker 2.0 for Twitter Bootstrap. Originally by @eyecon, modified by @mjolnic}
+  spec.description   = spec.summary
   spec.homepage      = ""
   spec.license       = "MIT"
   spec.files         = Dir["{lib,vendor}/**/*"]
